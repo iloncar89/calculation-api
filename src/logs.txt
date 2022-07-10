@@ -1,0 +1,6 @@
+INFO: 2022/02/11 09:31:37 environmentalVariables.go:17: Environment variable for enabling cache periodical deletion (cacheMemoryManagementEnabled): false
+WARNING: 2022/02/11 09:31:37 environmentalVariables.go:20: Environment variable for enabling cache periodical deletion (cacheMemoryManagementEnabled) is not set, as default it is turned on
+INFO: 2022/02/11 09:31:37 application.go:19: About to start the application...
+INFO: 2022/02/11 09:31:37 cache.go:129: Go routine for memory management is set.
+INFO: 2022/02/11 09:31:37 cache.go:131: Go routine calls DeleteUnusedCacheItems for checking unused cached items
+INFO: 2022/02/11 09:32:07 cache.go:131: Go routine calls DeleteUnusedCacheItems for checking unused cached items
